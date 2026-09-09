@@ -1,0 +1,7 @@
+deploy/env.sim
+deploy/production.env
+deploy/.manager-stage/
+.agent/sessions/
+.agent/evidence/
+__pycache__/
+*.pyc
